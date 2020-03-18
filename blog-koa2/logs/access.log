@@ -1,0 +1,1 @@
+::ffff:127.0.0.1 - - [14/Mar/2020:03:14:00 +0000] "GET /api/blog/detail?id=10 HTTP/1.0" 200 148 "http://localhost:8080/detail.html?id=10" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36"
